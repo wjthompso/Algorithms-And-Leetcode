@@ -1,7 +1,7 @@
 from typing import List, Union, Any, Optional
 from unittest import TestCase
 
-"""This is a partial implementation of the single array linked list from CLRS 10.2.
+"""This is a partial implementation of the single array linked list from CLRS 10.3.
 
 It demonstrates how allocation and deallocation of nodes can be done in a single array
 using the next and previous slots of each node to point to the next and previous nodes
